@@ -15,7 +15,7 @@ I'm interested in turning complex datasets into clear findings that support prac
 ### Selected projects
 | Project | What it demonstrates |
 | --- | --- |
-| [Bank Transaction Fraud Risk — Exploratory Analysis](https://github.com/vyhuynh071200/5430H-project) | R, reproducible EDA, comparison of fraud-rate patterns, careful handling of class imbalance |
+| [Exploratory Fraud Risk Patterns](https://github.com/vyhuynh071200/5430H-project) | R, reproducible EDA, comparison of fraud-rate patterns, careful handling of class imbalance |
 | [COVID-19 Data Exploration with SQL](https://github.com/vyhuynh071200/PortfolioProjects) | SQL joins, aggregation, window functions, temporary tables and a reporting view |
 | [Student Academic Performance — Statistical Analysis](https://github.com/vyhuynh071200/Factors-Influencing-Student-Academic-Performance-in-Secondary-Education) | Team project using R, regression, ANOVA and data visualization; my focus included the `failures` variable |
 
